@@ -1,5 +1,5 @@
 /* 
-  rwp firmware for HesBright FLEX
+  hexbright_bike firmware for HexBright FLEX
   modified 29 Mar 2016 from
   
   Factory firmware for HexBright FLEX 
